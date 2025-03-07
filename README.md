@@ -1,6 +1,7 @@
 Microsoft Entra Private Access and Microsoft Entra Internet Access directly align with the Secure Service Edge (SSE) framework by providing integrated, cloud-native security solutions that protect users, applications, and data across both internal and internet traffic. 
 
 Here , I have shown how to implement this Private and internet access
+
 License requerment : I have used "Microsoft Entra Suite" License. which has both Private and Internet access License
 https://www.microsoft.com/en-ca/security/business/microsoft-entra
 
